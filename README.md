@@ -289,13 +289,6 @@ This project is under the MIT License. See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
-
-Al-Qa'qa' - [@Al_Qa_qa](https://twitter.com/Al_Qa_qa) - alqaqa.fighter@gmail.com
-
-Project Link: [https://github.com/Al-Qa-qa/NFTify](https://github.com/Al-Qa-qa/NFTify)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
