@@ -1,0 +1,18 @@
+{
+  "hardhat": {
+    "NftMarketplace": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "BasicNft": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "BasicNftTwo": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+  },
+  "localhost": {
+    "NftMarketplace": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "BasicNft": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "BasicNftTwo": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+  },
+  "sepolia": {
+    "NftMarketplace": "0x70fD26ce41FA5b5efCd85A64EAB0C5d85f4B1e37",
+    "BasicNft": "0x274d819CF2A61e6A311086f6e22Deea8c05bE59D",
+    "BasicNftTwo": "0x274d819CF2A61e6A311086f6e22Deea8c05bE59D",
+    "Pandas": "0xe408e13cAE4844c865d55A61e70C71f1Ee279bc9"
+  }
+}
